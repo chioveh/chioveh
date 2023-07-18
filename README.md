@@ -13,7 +13,6 @@
 -  Sequelize 🌊
 -  JavaScript 📜
 -  SQL 🗃️
--  MongoDB 🍃
 
 ## Cómo contactarme
 - LinkedIn: [https://www.linkedin.com/in/chioveh/](https://www.linkedin.com/in/chioveh/)
